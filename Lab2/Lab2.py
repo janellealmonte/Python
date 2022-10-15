@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#A function that uses command line arguments. This function will print two variables used, the script and then the script AND variables.
 import sys
 
 def f1(country, year):
