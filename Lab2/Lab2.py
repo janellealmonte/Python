@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
-import os
 import sys
-
 
 def f1(country, year):
     print('You arrived in ' + country + ' in '+str(year)+'')
