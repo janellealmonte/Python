@@ -8,3 +8,9 @@ def write_text(name):
 if __name__ == '__main__':   # This section also referred to as a "main block"
 
     write_text('Janelle Marie Almonte')
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()

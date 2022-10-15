@@ -15,3 +15,8 @@ if __name__ == '__main__':
     year = sys.argv[2]
     f1(country, year)
 
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()

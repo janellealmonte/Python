@@ -14,3 +14,9 @@ if __name__ == '__main__':   # This section also referred to as a "main block"
     birthdate=input('Input birthdate (dd-mm-yyyy):')
     
     print(calculate_age(birthdate))
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
