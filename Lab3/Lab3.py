@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#A function that will write a text file to your PC with your name
 def write_text(name):
     f= open("name.txt","w+")
     f.write(name)
