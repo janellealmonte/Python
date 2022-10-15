@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#A function that takes an input from the user and calculate someone’s age
 from datetime import date
 
 def calculate_age(birthdate):
